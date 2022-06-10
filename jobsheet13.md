@@ -291,7 +291,7 @@ b. Ketika objek tree pertama kali dibuat, apakah nilai dari root?
 
 **a. untuk menyimpan data yang berada pada bagian paling atas tree**
 
-**b. Ketika objek tree pertama kali dibuat, apakah nilai dari root?**
+**b. ketika objek tree pertama kali dibuat nilai dari root bernilai null, karena masih belum ada data yang dimasukan**
 
 
 4. Ketika tree masih kosong, dan akan ditambahkan sebuah node baru, proses apa 
